@@ -1,5 +1,5 @@
 # Arduino_Notebook
-学习Arduino过程中的笔记。
+学习Arduino和RaspberryPi过程中的笔记。
 
 2020年8月10日 [Windows Termianl 基于SSH访问树莓派(基于SSH和JSON)](https://github.com/Raspberryr/Arduino_Notebook/blob/master/RaspberryPi/Windows%20Termianl%20%E5%9F%BA%E4%BA%8ESSH%E8%AE%BF%E9%97%AE%E6%A0%91%E8%8E%93%E6%B4%BE%EF%BC%88SSH%E9%85%8D%E7%BD%AE%E4%B8%8EJSON%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%EF%BC%89.md)
 
